@@ -59,6 +59,10 @@ Apresentar os dados
 
 - [x] while
 
+## Condicionais 
+
+- [x] switch
+
 ## Notas aula-01
 
 - Sempre prestar atenção na escrita.
