@@ -23,23 +23,48 @@ Apresentar os dados
 
 ## Escopo e variáveis:
 
-Variáveis globais e locais
-Constantes
+- [x] Variáveis globais e locais
+- [x] Constantes
 
 ## Tipos de dados:
 
-Strings (textos): "", '', ``
-Number: 2, 1.4
-function
+- [x] Strings (textos): "", '', ``
+- [x] Number: 2, 1.4
+- [x] boolean: true, false
 
 ## Operadores
 
-Operadores de atribução de valor
+- [x] Operadores de atribução de valor '='
+- [x] Operador de concatenação  '+'
+
+## Estrutura de dados:
+
+### Arrays:
+
+- [x] Uma lista que contém  qualquer tipo de dado
+
+### Objetos
+
+- [x] Atribuição e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso e propriedades de objetos
+
+### Functions
+
+- [x] criar, passar argumento
+- [x] executar
+- [x] arrow function / named function 
 
 ## Notas aula-01
 
 - Sempre prestar atenção na escrita.
 - "console" => objeto, .log() => é uma função e os () é onde colocamos as informações.
 - Escopo:
-    As {} significam um novo escopo, tudo que é escrito dentro de {} é um escopo local, o que estiver fora é global.
+    - As {} significam um novo escopo, tudo que é escrito dentro de {} é um escopo local, o que estiver fora é global.
 - Código sempre vai ser interpretado linha a linha.
+- O array funciona com índices sempre começando do 0
+    - Para criar um array se usa os []
+- Objeto sempre é atribuido após o sinal de = logo em seguida as {}: let objeto = {}
+    - O metodo está dentro de um objeto e a função está fora de um objeto
+    - Manipulação é você poder alterar o uma coisa e outra, somar uma coisa a outra
+    - O acesso é feito através do '.' para poder acessar uma propriedade/algo dentro 
