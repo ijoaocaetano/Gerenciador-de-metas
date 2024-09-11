@@ -55,6 +55,10 @@ Apresentar os dados
 - [x] executar
 - [x] arrow function / named function 
 
+## Estrutura de repetição
+
+- [x] while
+
 ## Notas aula-01
 
 - Sempre prestar atenção na escrita.
