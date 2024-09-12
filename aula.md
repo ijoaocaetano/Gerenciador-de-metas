@@ -63,6 +63,15 @@ Apresentar os dados
 
 - [x] switch
 
+## Módulos em Node.js:
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+- [x] Uso de funções assíncronas (async/await)
+
 ## Notas aula-01
 
 - Sempre prestar atenção na escrita.
@@ -80,3 +89,5 @@ Apresentar os dados
 ## Notas aula-02
 
 - npm = node package menanger, ou seja um gerenciador de arquivos do node.
+- require = precisa/necessita de um modulo que vem de fora 'CommonJS'
+- Promises, promete uma resposta ao usuário, com o uso do await
