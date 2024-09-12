@@ -76,3 +76,7 @@ Apresentar os dados
     - O metodo está dentro de um objeto e a função está fora de um objeto
     - Manipulação é você poder alterar o uma coisa e outra, somar uma coisa a outra
     - O acesso é feito através do '.' para poder acessar uma propriedade/algo dentro 
+
+## Notas aula-02
+
+- npm = node package menanger, ou seja um gerenciador de arquivos do node.
