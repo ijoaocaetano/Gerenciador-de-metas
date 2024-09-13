@@ -34,8 +34,9 @@ Apresentar os dados
 
 ## Operadores
 
-- [x] Operadores de atribução de valor '='
-- [x] Operador de concatenação  '+'
+- [x] Operadores de atribução de valor: '='
+- [x] Operador de concatenação:  '+'
+- [x] Operadores de comparação: ==, ===, !=, < >, <=, >=
 
 ## Estrutura de dados:
 
@@ -62,6 +63,7 @@ Apresentar os dados
 ## Condicionais 
 
 - [x] switch
+- [x] if/else
 
 ## Módulos em Node.js:
 
@@ -91,3 +93,4 @@ Apresentar os dados
 - npm = node package menanger, ou seja um gerenciador de arquivos do node.
 - require = precisa/necessita de um modulo que vem de fora 'CommonJS'
 - Promises, promete uma resposta ao usuário, com o uso do await
+- if/else está no 'cadastrar meta' no git, caso eu queira prucurar
