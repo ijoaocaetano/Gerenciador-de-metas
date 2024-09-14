@@ -37,12 +37,14 @@ Apresentar os dados
 - [x] Operadores de atribução de valor: '='
 - [x] Operador de concatenação:  '+'
 - [x] Operadores de comparação: ==, ===, !=, < >, <=, >=
+- [x] Spreed operator: ...
 
 ## Estrutura de dados:
 
 ### Arrays:
 
 - [x] Uma lista que contém  qualquer tipo de dado
+- [x] Métodos de array: push, [find, forEach, filter]: HOF (Higher Order Functions)
 
 ### Objetos
 
@@ -94,3 +96,5 @@ Apresentar os dados
 - require = precisa/necessita de um modulo que vem de fora 'CommonJS'
 - Promises, promete uma resposta ao usuário, com o uso do await
 - if/else está no 'cadastrar meta' no git, caso eu queira prucurar
+- Método e toda função que está dentro de um objeto
+- No javascript tudo é entendido como objeto
