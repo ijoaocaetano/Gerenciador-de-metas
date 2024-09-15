@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "value": "Correr",
+    "checked": true
+  },
+  {
+    "value": "ler",
+    "checked": true
+  },
+  {
+    "value": "Beber 3L de água por dia",
+    "checked": false
+  }
+]
