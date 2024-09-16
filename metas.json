@@ -1,11 +1,11 @@
 [
   {
     "value": "Correr",
-    "checked": true
+    "checked": false
   },
   {
     "value": "ler",
-    "checked": true
+    "checked": false
   },
   {
     "value": "Beber 3L de água por dia",
@@ -13,6 +13,6 @@
   },
   {
     "value": "Fazer lições",
-    "checked": false
+    "checked": true
   }
 ]
